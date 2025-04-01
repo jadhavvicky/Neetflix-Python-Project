@@ -91,9 +91,6 @@ Genres like **Drama** and **Thriller** dominate the *popular* vote average categ
 ├── netflix_data_analysis.ipynb
 ├── mymoviedb.csv
 ├── README.md
-└── output/
-    └── plots (optional for saving visuals)
-```
 
 
 
@@ -114,4 +111,4 @@ Thanks to open-source communities and [Kaggle](https://www.kaggle.com) for makin
 
 
 
-Let me know if you want me to generate a markdown version of this or help you create a GitHub repo structure too!
+
